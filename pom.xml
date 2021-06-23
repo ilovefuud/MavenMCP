@@ -201,6 +201,13 @@
             <artifactId>twitch</artifactId>
             <version>6.5</version>
         </dependency>
+
+        <dependency>
+            <groupId>javax.vecmath</groupId>
+            <artifactId>vecmath</artifactId>
+            <version>1.5.2</version>
+        </dependency>
+
     </dependencies>
 
 

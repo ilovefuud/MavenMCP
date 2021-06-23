@@ -4,10 +4,10 @@ COLOR 0F
 SETLOCAL ENABLEDELAYEDEXPANSION
 CLS
 
-:: 1.8.8 Version
-SET MCP_LK=http://www.modcoderpack.com/files/mcp918.zip
-SET MC_VEV=1.8.8
-SET OPTIFINE_LK=http://hexeption.co.uk/optifine.zip
+:: 1.8.9 Version
+SET MCP_LK=https://cdn.discordapp.com/attachments/662232729324224522/857312189895671827/mcp1.8.9.zip
+SET MC_VEV=1.8.9
+SET OPTIFINE_LK=https://cdn.discordapp.com/attachments/662232729324224522/857313243038482482/mcp1.8.9_optifine.zip
 
 :: Downloading Beta MCP
 :: TODO Check if there is already and tmp folder
